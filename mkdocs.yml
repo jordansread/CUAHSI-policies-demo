@@ -1,0 +1,55 @@
+site_name: CUAHSI internal policies and procedures
+repo_name: CUAHSI-policies-demo
+repo_url: https://github.com/jordansread/CUAHSI-policies-demo
+edit_uri: blob/main/docs/
+
+theme:
+  name: "readthedocs"
+  features:
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - navigation.footer
+  icon:
+    edit: material/pencil
+    view: material/eye
+  palette:
+    - scheme: default
+      toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
+    - scheme: slate
+      toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+
+nav:
+  - Home: index.md
+  - Reimbursements:
+      Reimbursement Process Overview: reimbursement/reimbursement_overview.md
+      Accounting Quick References: reimbursement/accounting_guide.md
+      Reimbursement Templates and Forms: reimbursement/reimbursement_forms.md
+      Vendor Onboarding: reimbursement/vendor_onboarding.md
+  - Meetings & Events:
+      Events Checklist and Guidance: meetings_events/event_checklist.md
+      Housing Guidance: meetings_events/housing.md
+  - Grants and Compliance:
+      Conflict of Interest: compliance/COIs.md
+      Pre-Award Documents: compliance/pre-award.md
+      Budget Monitoring: compliance/budget_monitoring.md
+      Subaward Information: compliance/subaward_general.md
+      Subaward Monitoring: compliance/subaward_monitoring.md
+      Procurement Policies: compliance/procurement.md
+  - Demystifying CUAHSI:
+      Acronyms: demystify/acronyms.md
+      CUAHSI Benefits: demystify/benefits.md
+      Onboarding Documents: demystify/onboarding.md
+      ADP Time Entry: demystify/ADP_time.md
+      ADP Time Off: demystify/ADP_leave.md
+  - Contribute: contribute.md
