@@ -2,7 +2,9 @@
 
 The direct supervisor for a new hire is responsible for ensuring a successful onboarding experience. This includes completing the tasks in this document, arriving on time to welcome the employee on the first day (or arranging – ahead of time – for someone else to), and being available to resolve any issues during the onboarding process (or arranging – ahead of time – for someone else to).  
 
-A position description should be given to the new hire at the time of onboarding and the supervisor should complete a performance plan within one month of the new hire starting.  
+A position description should be given to the new hire at the time of onboarding and the supervisor should complete a performance plan within one month of the new hire starting. 
+
+Hello, new edit to make here at our meeting!
 
 ## Employment documents  
 
