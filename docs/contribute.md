@@ -4,7 +4,7 @@
 We welcome your contributions to these policy documents! If you would like to contribute to the development of the pages within this repository, you have the following options:
 
 1. Navigate to [GitHub repository](https://github.com/CUAHSI/CUAHSI-policies), fork the repository, make edits or add content, and then make a pull request
-![Forking the repository on GitHub](GitHub_fork.png)
+![Forking the repository on GitHub](contribute/GitHub_fork.png)
 2. Edit the best practice documents directly in GitHub and submit a pull request using the steps below
 3. [Create an issue](https://github.com/CUAHSI/CUAHSI-policies/issues) in the GitHub Repository and post your suggested edits or content in that issue.
 

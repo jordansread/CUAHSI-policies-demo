@@ -1,4 +1,3 @@
-## Traveler Reimbursement Process Guide
 
 ### 1. Understand Your Traveler
 Before initiating the reimbursement process, ensure you have all the necessary information about the traveler and their trip.
@@ -24,7 +23,7 @@ A log of approved employee travel authorizations can be viewed [here](https://hy
 A log of _non-employee_ authorized travel can be viewed [here](https://hydrologicscience.sharepoint.com/:x:/r/sites/Administration/_layouts/15/Doc.aspx?sourcedoc=%7B4d4950bc-8678-4de5-94a7-6b9e23e90e25%7D&action=edit&wdinitialsession=67e57197-f246-c26a-9d14-c742d9f42a2a&wdrldsc=10&wdrldc=1&wdrldr=UserInteraction%2CBootTimeMismatch)
 
 ### 3. Vendor Onboarding (For New Non-Employee Travelers)
-If the traveler is not onboarded as a vendor, complete the vendor onboarding process as described in [Vendor Onboarding](reimbursement/vendor_onboarding.md)
+If the traveler is not onboarded as a vendor, complete the vendor onboarding process as described in [Vendor Onboarding](vendor_onboarding.md)
 
 After the traveler submits onboarding documents, confirm [onboarding status](https://hydrologicscience.sharepoint.com/:x:/s/Administration/EdIqT0WAjEtBu64lEZO4XCQBEI744ArSSRC2dCJgjjk-XA?e=SkWAN4) (<- _note this is likely outdated and needs to be changed as a process_)
 
