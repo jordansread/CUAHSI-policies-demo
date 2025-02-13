@@ -1,6 +1,6 @@
-site_name: CUAHSI FOT-net
-repo_name: CUAHSI-policies-demo
-repo_url: https://github.com/jordansread/CUAHSI-policies-demo
+site_name: CUAHSI InfoStream
+repo_name: CUAHSI-policies
+repo_url: https://github.com/CUAHSI/CUAHSI-policies
 edit_uri: blob/main/docs/
 
 theme:
@@ -32,26 +32,26 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Reimbursements:
-      Reimbursement Process Overview: reimbursement/reimbursement_overview.md
-      Accounting Quick References: reimbursement/accounting_guide.md
-      Reimbursement Templates and Forms: reimbursement/reimbursement_forms.md
-      Vendor Onboarding: reimbursement/vendor_onboarding.md
-  - Meetings & Events:
-      Events Guidance: meetings_events/event_guidance.md
-      Events Checklist: meetings_events/event_checklist.md
-      Housing Guidance: meetings_events/housing.md
-  - Grants and Compliance:
-      Conflict of Interest: compliance/COIs.md
-      Pre-Award Documents: compliance/pre-award.md
-      Budget Monitoring: compliance/budget_monitoring.md
-      Subaward Information: compliance/subaward_general.md
-      Subaward Monitoring: compliance/subaward_monitoring.md
-      Procurement Policies: compliance/procurement.md
-  - Demystifying CUAHSI:
-      Acronyms: demystify/acronyms.md
-      CUAHSI Benefits: demystify/benefits.md
-      Onboarding Documents: demystify/onboarding.md
-      ADP Time Entry: demystify/ADP_time.md
-      ADP Time Off: demystify/ADP_leave.md
-  - Contribute: contribute.md
+  - "Reimbursements":
+      "Reimbursement Process Overview": reimbursement/reimbursement_overview.md
+      "Accounting Quick References": reimbursement/accounting_guide.md
+      "Reimbursement Templates and Forms": reimbursement/reimbursement_forms.md
+      "Vendor Onboarding": reimbursement/vendor_onboarding.md
+  - "Meetings & Events":
+      "Events Guidance": meetings_events/event_guidance.md
+      "Events Checklist": meetings_events/event_checklist.md
+      "Housing Guidance": meetings_events/housing.md
+  - "Grants and Compliance":
+      "Conflict of Interest": compliance/COIs.md
+      "Pre-Award Documents": compliance/pre-award.md
+      "Budget Monitoring": compliance/budget_monitoring.md
+      "Subaward Information": compliance/subaward_general.md
+      "Subaward Monitoring": compliance/subaward_monitoring.md
+      "Procurement Policies": compliance/procurement.md
+  - "Demystifying CUAHSI":
+      "Acronyms": demystify/acronyms.md
+      "CUAHSI Benefits": demystify/benefits.md
+      "Onboarding Documents": demystify/onboarding.md
+      "ADP Time Entry": demystify/ADP_time.md
+      "ADP Time Off": demystify/ADP_leave.md
+  - "Contribute": contribute.md
