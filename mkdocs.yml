@@ -38,7 +38,8 @@ nav:
       Reimbursement Templates and Forms: reimbursement/reimbursement_forms.md
       Vendor Onboarding: reimbursement/vendor_onboarding.md
   - Meetings & Events:
-      Events Checklist and Guidance: meetings_events/event_checklist.md
+      Events Guidance: meetings_events/event_guidance.md
+      Events Checklist: meetings_events/event_checklist.md
       Housing Guidance: meetings_events/housing.md
   - Grants and Compliance:
       Conflict of Interest: compliance/COIs.md
