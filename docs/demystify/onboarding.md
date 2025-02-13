@@ -4,8 +4,6 @@ The direct supervisor for a new hire is responsible for ensuring a successful on
 
 A position description should be given to the new hire at the time of onboarding and the supervisor should complete a performance plan within one month of the new hire starting. 
 
-Hello, new edit to make here at our meeting!
-
 ## Employment documents  
 
 Employment documents should be requested from HR Knowledge (hr@cuahsi.org).  (Tonja can also assist with this effort). HR Knowledge will need the new hire’s application materials (i.e. resume) and email address. Then, new hire paperwork will be sent to the new hire’s email address. This will include items like I-9 Employment Verification, Direct Deposit, Insurance Enrollment, etc., as applicable for the employee type (i.e. full-time versus part-time).  
